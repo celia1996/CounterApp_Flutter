@@ -16,7 +16,7 @@ class _CounterPageState extends State<CounterPage> {
     return Scaffold(
         appBar: AppBar(
           backgroundColor: _PrimaryColor,
-          title: Text('WallsOut'),
+          title: Text('Contador de taps'),
           centerTitle: true,
         ),
         body: Center(
