@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: PrimaryColor,
-        title: Text('WallsOut'),
+        title: Text('Contador de taps'),
         centerTitle: true,
       ),
       body: Center(
